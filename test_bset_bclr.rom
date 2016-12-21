@@ -1,0 +1,40 @@
+v2.0 raw
+# to load this file into Logisim:
+# 1) redirect the output from the assembler to a file
+# 2) use the poke tool in Logisim and right-click the ROM/RAM component
+# 3) select Load Image menu option
+# 4) load the saved file
+2000
+E000
+1000
+E002
+1000
+E004
+1000
+E006
+1000
+E008
+1000
+E00A
+1000
+E00C
+1000
+E00E
+1000
+E001
+1000
+E003
+1000
+E005
+1000
+E007
+1000
+E009
+1000
+E00B
+1000
+E00D
+1000
+E00F
+1000
+0000
